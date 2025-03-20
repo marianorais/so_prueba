@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "servidorcpu.h": "c",
+        "init_filesystem.h": "c",
+        "init_kernel.h": "c"
+    }
+}
